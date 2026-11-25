@@ -1,0 +1,11 @@
+{
+  "name": "u-danu-the-most-shameless-lie-fbb85bc6",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One line: the lie an AI agent told its human.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
